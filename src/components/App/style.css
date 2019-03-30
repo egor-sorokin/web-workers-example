@@ -1,0 +1,38 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  min-height: 100vh;
+
+  padding: 130px;
+
+  background-color: #282c34;
+  color: #61dafb;
+
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+.app-header {
+  color: white;
+}
+
+.app-item {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  width: 100%;
+
+  position: relative;
+}
+
+.requests-buttons {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.requests-buttons button:nth-of-type(n+2) {
+  margin-left: 20px;
+}
