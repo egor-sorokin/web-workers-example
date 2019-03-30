@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Annyang](https://github.com/TalAter/annyang)
+This project was created with [Create React App](https://github.com/facebook/create-react-app) and [Annyang](https://github.com/TalAter/annyang)
 
 ## Run the project
 
