@@ -1,14 +1,13 @@
 {
-  "name": "Web workers and Speech recognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "annyang": "^2.6.1",
-    "axios": "^0.18.0",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
+    "axios": "^0.19.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-scripts": "2.1.8",
-    "restify": "^8.1.1",
+    "restify": "^8.4.0",
     "restify-cors-middleware": "^1.1.1",
     "restify-plugins": "^1.6.0"
   },
